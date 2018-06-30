@@ -1,6 +1,6 @@
-# 瞎搞
+# demo
 
-这里是自己瞎搞的一些小东西，如果觉得还ok的话可以给个 star ⭐️ 鼓励一下我吧~
+如果觉得还不错的话，就给个 star ⭐️ 鼓励一下我吧~
 
 ### [博客文章分类列表](https://github.com/OBKoro1/OBKoro1.github.io)
 
